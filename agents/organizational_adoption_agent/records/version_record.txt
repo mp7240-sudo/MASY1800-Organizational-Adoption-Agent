@@ -1,0 +1,6 @@
+Repository: https://github.com/mp7240-sudo/MASY1800-Organizational-Adoption-Agent
+Branch: assignment-7-organizational-adoption
+Tested candidate commit: 16341bf1e46be90119715b6f23bfbd2439cf48c4
+Agent version: 0.2-student
+Frozen scaffold version: MASY1800_ET_Agent_Scaffold_v1_0
+Documentation-only follow-up commit adds this immutable tested reference.
