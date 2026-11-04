@@ -1,0 +1,6 @@
+primary_response.json: VALIDATION PASSED
+contrast_1_response.json: VALIDATION PASSED
+primary_response_revised.json: VALIDATION PASSED
+contrast_1_response_revised.json: VALIDATION PASSED
+FROZEN CORE INTACT
+Additional manual structure check: no extra top-level output keys.

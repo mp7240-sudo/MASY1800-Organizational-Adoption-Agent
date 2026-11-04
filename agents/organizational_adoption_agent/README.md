@@ -1,7 +1,11 @@
-# Assignment 7 Organizational Adoption Agent
+# Organizational Adoption Agent Assignment 7
 
-The cases carry forward the wealth-management intake topic from Assignment 6. Both profiles are fictional. Only organizational readiness assumptions differ; technology and application are held constant.
+Final candidate: version 0.2-student. Public working branch: assignment-7-organizational-adoption.
 
-Prepared files: specialist instructions, primary/contrast cases and Agent Record draft. Run the generated prompt packets in ChatGPT, save JSON responses, validate, identify an actual weakness, revise and retest identical cases. Record student judgment and evidence before submission. No test results have been fabricated.
+Start with records/agent_record.md and records/team_handoff.md. Cases are explicitly fictional regional-bank profiles carrying forward the Assignment 6 intake topic. Technology/application are identical; organizational capacities differ.
 
-Use the original scaffold tools and frozen output fields. The standard validator checks basic structure, not factual accuracy or reasoning quality. Generated work packets are ignored by Git; inputs, instructions and saved responses preserve the reproducible evidence.
+Primary and contrast responses without a revised suffix are the initial v0.1 runs. Responses ending _revised.json are v0.2 follow-up retests in the same respective ChatGPT chats. Raw exports and original instructions preserve provenance. All four passed the frozen basic validator; frozen core is intact. See records/validation_results.txt and revision_log.md. Record version reference is in records/version_record.txt.
+
+Main result: A is conditionally ready for synthetic evaluation; B is not yet ready. Neither is ready for real-client deployment. Advisor review competence, effectiveness and capacity cannot be inferred from intended human oversight.
+
+No API key required. Use tools/build_prompt.py and tools/validate_response.py as supplied. Fresh v0.2 prompt packets can be rebuilt from the committed instructions/cases; actual retests used a revision addendum in existing chats. This anchoring limitation and lack of real bank evidence are disclosed. Student review of independent judgment remains necessary before course submission.

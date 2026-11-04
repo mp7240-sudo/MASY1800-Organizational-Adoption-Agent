@@ -1,0 +1,81 @@
+{
+  "agent": {
+    "name": "Organizational Adoption Agent",
+    "specialty": "Organizational readiness and adoption",
+    "version": "0.2-student"
+  },
+  "analytical_question": "Can Profile B, a hypothetical resource-constrained regional bank, absorb, govern and sustain the proposed generative AI wealth-management intake assistant, and what conditions determine readiness for synthetic evaluation, real-client piloting and sustained deployment over six months from November 3, 2026?",
+  "general_et_finding": "LLM-based conversational assistants can potentially ask questions, clarify responses and produce structured summaries, but output fidelity and consistency require application-specific testing. Omissions, distortions and unsupported additions are plausible failure modes, not measured findings for this system. The supplied NIST AI RMF 1.0 Core, GOVERN 3.2 and MAP 3.5, supports differentiated oversight responsibilities and assessment and documentation of human oversight. NIST AI 600-1 provides voluntary cross-sector generative AI risk guidance. Neither establishes model performance, bank compliance or deployment readiness. Organizational resource limitations must not be mistaken for technological immaturity.",
+  "application_finding": "The proposed assistant is limited to approved intake questions, clarification, response structuring, summarization and routing to a human advisor. It must not autonomously classify risk tolerance, determine suitability, allocate portfolios or recommend investments. Its potential suitability warrants comparison against the existing advisor-led questionnaire and simpler digital form. Relevant outcomes include completeness, preservation of client meaning, exception handling and advisor workload. No benefits or model performance are measured. Human review is intended, not demonstrated effective. Synthetic testing can investigate application fidelity but cannot establish real-client safety or operational readiness.",
+  "organization_specific_finding": "Profile B is NOT READY for synthetic evaluation, real-client piloting or sustained deployment under current scenario assumptions. Eight dimensions: (1) Leadership/sponsorship — BLOCKING for synthetic evaluation: executive interest is a strength, but no sponsor is committed; authority and willingness to allocate resources remain unknown. (2) Skills — UNKNOWN for competence and BLOCKING for current evaluation execution: advisors have no allocated evaluation time, IT is overloaded and no specialist is assigned. Existing advisor experience may support domain review, but application-specific evaluation competence is unverified. Allocating time would establish availability, not competence; training completion alone would not demonstrate effectiveness. (3) Workflow/process — CONDITIONAL for synthetic evaluation, BLOCKING for real-client use: an existing questionnaire provides a baseline, but escalation and exception handling are undocumented; current questionnaire effectiveness is unknown. (4) Infrastructure/data — BLOCKING for synthetic evaluation: documents are scattered and no approved sandbox exists; integration feasibility is unknown. (5) Resources/budget — BLOCKING for synthetic evaluation: no budget or staff allocation is approved; future funding is unknown. (6) Governance/risk — BLOCKING for authorized evaluation and real-client progression: compliance/security review capacity is unallocated and vendor/client-data permissions are unconfirmed; applicable jurisdictional requirements remain unknown. (7) Culture/change — CONDITIONAL for preparation, BLOCKING for currently staffed testing: advisors report workload concerns and lack training time; willingness, competence after training and adoption effectiveness are unknown. (8) Operating ownership — BLOCKING across stages: no manager has accepted evaluation or ongoing ownership; support capability is unknown. Stage conclusions: synthetic evaluation requires ownership, resources, authorized infrastructure, governance participation and demonstrated evaluation competence. Real-client piloting additionally requires measured human-review effectiveness, permissions and workable escalation. Sustained deployment requires successful preceding stages, demonstrated value and durable operating capacity. These are qualitative judgments based on fictional assumptions, not maturity certification.",
+  "evidence": [
+    {
+      "claim": "Executive interest exists without committed sponsorship or operating ownership.",
+      "source_or_reference": "Case: capabilities_constraints, Leadership and Operating ownership",
+      "date_or_recency": "November 3, 2026 scenario",
+      "evidence_type": "Fictional scenario assumption",
+      "notes": "Demonstrated scenario gaps, not verified institutional findings."
+    },
+    {
+      "claim": "Advisors lack allocated evaluation time, IT is overloaded and no relevant specialist is assigned.",
+      "source_or_reference": "Case: capabilities_constraints, Skills",
+      "date_or_recency": "November 3, 2026 scenario",
+      "evidence_type": "Fictional scenario assumption",
+      "notes": "Availability constraints are specified; competence and training effectiveness are unmeasured."
+    },
+    {
+      "claim": "An existing questionnaire is available, but exception procedures, sandbox, funding and review capacity are deficient.",
+      "source_or_reference": "Case: capabilities_constraints, Workflow, Infrastructure/data, Resources and Governance",
+      "date_or_recency": "November 3, 2026 scenario",
+      "evidence_type": "Fictional scenario assumption",
+      "notes": "Supports stage blockers without implying failed testing."
+    },
+    {
+      "claim": "Advisor review detection, escalation effectiveness, workload capacity and application benefits are unmeasured.",
+      "source_or_reference": "Case: additional_context, business_need and risk_consequence_context",
+      "date_or_recency": "November 3, 2026 scenario",
+      "evidence_type": "Explicit missing evidence",
+      "notes": "Prevents real-client readiness conclusions."
+    },
+    {
+      "claim": "GOVERN 3.2 and MAP 3.5 address oversight roles and assessment/documentation of human oversight.",
+      "source_or_reference": "NIST AI RMF 1.0 Core (2023), https://airc.nist.gov/airmf-resources/airmf/5-sec-core/",
+      "date_or_recency": "2023; original-page check attributed to Codex, November 3, 2026",
+      "evidence_type": "User-supplied authoritative source brief",
+      "notes": "Methodological support only; not independently browsed in this retest."
+    },
+    {
+      "claim": "NIST AI 600-1 provides voluntary cross-sector generative AI risk guidance.",
+      "source_or_reference": "NIST AI 600-1, https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+      "date_or_recency": "July 26, 2024; original-page check attributed to Codex, November 3, 2026",
+      "evidence_type": "User-supplied authoritative source brief",
+      "notes": "Does not prove legal obligations, compliance or system performance."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Executive interest and an existing questionnaire provide starting assets, although neither establishes execution readiness.",
+    "Missing competence evidence is not evidence of incompetence; unavailable staff time is a separate demonstrated constraint.",
+    "No vendor results, real-client evidence, measured benefits or completed approvals are supplied.",
+    "Legal entity and jurisdiction are unknown; no jurisdiction-specific obligation is inferred.",
+    "NIST source descriptions are supplied by the user and attributed to Codex verification, not independently checked here."
+  ],
+  "confidence_and_uncertainty": "High confidence in the current organizational blockers because they are explicit scenario assumptions. Moderate confidence in the proposed sequencing. Low confidence in application effectiveness, advisor review competence, achievable benefits and six-month progression because relevant measurements are absent. No actual bank facts or external performance verification are claimed.",
+  "value_opportunity_implication": "Potential value lies in more complete intake and better advisor preparation. Compare the assistant with both existing alternatives using matched cases and measures of completeness, fidelity, correction effort, escalation and total workload. A simpler digital form may achieve similar benefits with fewer organizational demands. No incremental value is demonstrated.",
+  "risk_governance_implication": "The principal concern is materially omitted or distorted client information passing through ineffective human review. Unallocated governance capacity, unclear escalation, unconfirmed permissions and absent ownership increase execution risk. Proposed safeguards include controlled synthetic testing, source-to-summary traceability, documented exceptions, measured advisor review, authorized data handling and explicit operating accountability. These are management proposals, not universal legal requirements or established controls.",
+  "recommendation_management_implication": "Five prioritized actions. (1) Establish sponsorship and ownership. Gap: no committed sponsor or manager. Proposed owner: wealth-management executive. Dependency: before evaluation authorization. Evidence: accepted sponsorship, named evaluation/service owner and decision rights. (2) Fund and staff a competent evaluation team. Gap: no budget, allocated advisor time or specialist. Proposed owner: sponsor with IT and advisor managers. Dependency: before synthetic testing. Evidence: approved resources, protected time and demonstrated application-specific evaluation skills through assessed exercises; attendance or willingness alone is insufficient. (3) Establish controlled testing and workflow governance. Gap: no sandbox, scattered documents, undocumented exceptions and unallocated governance review. Proposed owner: IT lead with proposed compliance/security and workflow leads. Dependency: before synthetic testing. Evidence: authorized synthetic-only environment, controlled questionnaire, documented escalation, test protocol and review participation. (4) Validate oversight and permissions. Gap: unmeasured advisor detection, escalation and capacity; unconfirmed vendor/client-data permissions. Proposed owner: advisor operations lead with compliance, privacy/security and vendor-management reviewers. Dependency: before real-client pilot. Evidence: measured review effectiveness, correction workload, escalation results, documented permissions and explicit pilot authorization. (5) Demonstrate sustainable value and operations. Gap: no operating owner, benefits or production evidence. Proposed owner: designated service manager with wealth-management operations. Dependency: before rollout. Evidence: evaluated pilot, comparative benefits, staffed support, monitoring, incident procedures and accepted ongoing ownership. All owners are proposed, not appointed.",
+  "change_monitoring_triggers": [
+    "STOP synthetic testing until sponsorship, staffing, demonstrated evaluation competence, sandbox and governance participation are documented.",
+    "REVIEW critical omissions, distortions, unsupported additions and exception outcomes during synthetic evaluation; proposed threshold: no unresolved critical failure before progression.",
+    "STOP real-client progression until advisor detection, escalation and actual review capacity are measured against prospectively approved thresholds; numerical standards are not established.",
+    "STOP unauthorized client-data processing or autonomous financial judgments; investigate and remediate before resumption.",
+    "PROGRESS toward sustained deployment only with documented pilot results, acceptable comparative value, stable ownership and demonstrated support capacity."
+  ],
+  "abstention_or_more_information_needed": [
+    "Who accepts sponsorship and operating ownership, and what funded staffing commitments exist? Obtain documented acceptance and allocations; blocks synthetic evaluation.",
+    "What application-specific evaluation skills do assigned personnel demonstrate? Obtain assessed practical exercises, competency criteria and training outcomes; blocks credible evaluation execution.",
+    "What sandbox, questionnaire controls and escalation procedures are authorized? Obtain environment approval and controlled workflow documentation; blocks synthetic evaluation.",
+    "How often do advisors detect omitted or distorted client responses, escalate exceptions correctly and complete review within actual available capacity? Obtain measured detection rates, missed critical errors, escalation outcomes, review times and staffing evidence; blocks real-client pilot.",
+    "Which jurisdiction, vendor permissions, data-processing permissions and governance decisions apply? Obtain authorized determinations; blocks real-client use.",
+    "Does the assistant outperform or sufficiently complement the questionnaire and simpler form, and can operations sustain it? Obtain comparative pilot results and operating evidence; blocks rollout."
+  ]
+}
