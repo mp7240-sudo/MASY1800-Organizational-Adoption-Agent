@@ -2,7 +2,7 @@
 
 Final candidate: version 0.2-student. Public working branch: assignment-7-organizational-adoption.
 
-Start with records/agent_record.md and records/team_handoff.md. Cases are explicitly fictional regional-bank profiles carrying forward the Assignment 6 intake topic. Technology/application are identical; organizational capacities differ.
+Start with records/Assignment_7_Agent_Record.docx (course Word template, including self-reflection), records/agent_record.md and records/team_handoff.md. Cases are explicitly fictional regional-bank profiles carrying forward the Assignment 6 intake topic. Technology/application are identical; organizational capacities differ.
 
 Primary and contrast responses without a revised suffix are the initial v0.1 runs. Responses ending _revised.json are v0.2 follow-up retests in the same respective ChatGPT chats. Raw exports and original instructions preserve provenance. All four passed the frozen basic validator; frozen core is intact. See records/validation_results.txt and revision_log.md. Record version reference is in records/version_record.txt.
 

@@ -5,7 +5,7 @@
 - Assignment: Week 9 Assignment 7 Organizational Adoption of Emerging Technologies.
 - Agent: Organizational Adoption Agent, version 0.2-student.
 - Date: November 3, 2026.
-- Repository: https://github.com/mp7240-sudo/MASY1800-Organizational-Adoption-Agent (public).
+- Repository: https://github.com/mp7240-sudo/MASY1800-Organizational-Adoption-Agent.
 - Branch: assignment-7-organizational-adoption.
 - Tested candidate commit: see version_record.txt, committed after testing; the later documentation commit adds the immutable version reference.
 - Frozen scaffold: MASY1800_ET_Agent_Scaffold_v1_0.
@@ -63,3 +63,7 @@ Most important recommendation: for A, demonstrate the human-review system works 
 Team handoff: carry forward the agent, both profiles and responses, this stage-specific conclusion, advisor-review evidence request, and the required organizational intake information. Capture sponsor commitment, decision rights, staff allocation and task competence, workflow/exceptions, sandbox/data permissions, budget, governance review capacity, training effectiveness, evaluation/production ownership, jurisdiction, review effectiveness, workload and decision horizon using the existing common input fields.
 
 AI/verification note: Codex inspected and specialized the scaffold, generated fictional contrasts, operated ChatGPT for four actual responses, validated their format, diagnosed a real weakness, revised the rules and recorded evidence. Original NIST framework/publication pages were checked for methodological support, rather than treating generated summaries as evidence. Scenario fields are the original evidence for organizational comparisons and remain explicitly hypothetical. No original bank records, financial benefits, vendor capabilities or jurisdiction-specific obligations were verified.
+
+## Self Reflection
+
+This lab helped me distinguish an attractive technology from an organization that is ready to use it. Comparing the two bank profiles showed how ownership, resources and governance change the next feasible step. The initial skills rating also showed why staff availability should not be treated as evidence of competence. My main takeaway is to ask for evidence that human review works rather than assume it will. I would strengthen future testing with fresh-chat retests and verified organizational data.
